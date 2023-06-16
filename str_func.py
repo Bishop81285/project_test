@@ -1,4 +1,5 @@
 def str_up(text):
+    """Makes letters BIG"""
     return text.upper()
 
 
